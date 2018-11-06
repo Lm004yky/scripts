@@ -8,5 +8,7 @@ ceiling = box(size=vector(10,0.1,10), color=vector(1,1,1), pos=vector(0,8.1,0))
 
 for i in range(100000):
     rate(300)
+    
     spring.axis=vector(0,-8+6*sin(2*pi*i/1000.0),0)
+    
     mass.pos=vector(0,-1.5+6*sin(2*pi*i/1000.0),0)    
