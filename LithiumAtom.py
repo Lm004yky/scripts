@@ -20,3 +20,6 @@ for i in range(100000):
     x3=-15*(cos(2*pi*i/1000))
     z3=15*(sin(2*pi*i/1000))
     electron3.pos=vector(x3,0,z3)
+
+    
+    
