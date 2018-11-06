@@ -62,3 +62,4 @@ while light.pos.y<=p2.pos.y:
 print("Total time = ", t," s")
 print("Angle of Incidence = ",thetai*180/pi," deg")
 print("Angle of Relfection = ", thetar*180/pi," deg")
+
