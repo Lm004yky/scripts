@@ -61,3 +61,6 @@ while (p1.pos.x+x)<=p2.pos.x:
   print("Incident = ", temp[1]*180/pi," Reflected =",temp[2]*180/pi," Time = ",temp[0]," s")
   #f1.plot(temp[1]*180/pi,temp[0])
   x=x+dx
+
+  
+  
