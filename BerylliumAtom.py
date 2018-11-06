@@ -37,3 +37,7 @@ for i in range(100000):
     electron4.pos=vector(x4,y4,z4)
 
 
+
+
+    
+        
