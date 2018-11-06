@@ -35,6 +35,11 @@ for i in range(100000):
     y4=-x4
     z4=10*(sin(2*pi*i/1000.0))*(-1.0)/sin(pi/4.0)
     electron4.pos=vector(x4,y4,z4)
+    
+    
+    
+    
+    
 
 
 
