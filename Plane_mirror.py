@@ -12,6 +12,7 @@ d2=20
 ##### Rotate the right mirror.
 ##### If anlge>0, then clockwise
 ##### If angle<0, then counter-clockwise
+##### Try to find the angle range that makes the ray reach the red side of the screen
 angle_degrees=0
 
 
