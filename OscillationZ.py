@@ -8,6 +8,8 @@ for i in range(400):
     position = 10*sin(2*pi*i/100.0)
     
     s.pos=vector(0, 0, position)
+    trinket.io/gloscript
+    
     
     
     
